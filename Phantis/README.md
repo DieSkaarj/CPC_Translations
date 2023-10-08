@@ -1,6 +1,6 @@
 ![Phantis](./Screenshots/Phantis(0).png)
 
- | | |
+ In | Game | Screens |
  :-:|:-:|:-:
 ![Phantis](./Screenshots/Phantis(1).png) | ![Phantis](./Screenshots/Phantis(2).png) | ![Phantis](./Screenshots/Phantis(3).png)
 # Phantis
