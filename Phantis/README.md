@@ -5,6 +5,7 @@
 ![Phantis](./Screenshots/Phantis(2).png) | ![Phantis](./Screenshots/Phantis(3).png) | ![Phantis](./Screenshots/Phantis(4).png)
 ![Phantis](./Screenshots/Phantis(1).png) | ![Phantis](./Screenshots/Phantis(0).png) | ![Phantis](./Screenshots/Phantis(5).png)
 ![Phantis](./Screenshots/Phantis(6).png) | ![Phantis](./Screenshots/Phantis(7).png) | ![Phantis](./Screenshots/Phantis(8).png)
+
 # Phantis
 
 ***PHANTIS** is an incredible 100% video arcade adventure. Face 24 different enemies throughout 4 phases and 6 different levels. Phantis incorporates **DOUBLE LOAD FX**, two programs in one. Double the graphics, double the adventure and maximum addictiveness.*
