@@ -1,5 +1,7 @@
 ![Phantis](./Screenshots/Phantis(0).png)
 
+ | | |
+ :-:|:-:|:-:
 ![Phantis](./Screenshots/Phantis(1).png) | ![Phantis](./Screenshots/Phantis(2).png) | ![Phantis](./Screenshots/Phantis(3).png)
 # Phantis
 
